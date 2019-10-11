@@ -1,0 +1,13 @@
+/*title*/
+h1{
+	text-align: center;
+}
+/*div*/
+table{
+	border: 1px solid black;
+	padding: 25px;
+}
+th{
+	text-align: center;
+	font-size: 110%;
+}

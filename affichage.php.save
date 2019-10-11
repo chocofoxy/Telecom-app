@@ -1,0 +1,7 @@
+<?php
+
+$data = $conn->query(" select * from stock ;") ;
+
+
+
+?>
